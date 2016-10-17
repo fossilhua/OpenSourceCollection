@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OpenSourceCollection.iml" filepath="$PROJECT_DIR$/OpenSourceCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lsh-image-loader/lsh-image-loader.iml" filepath="$PROJECT_DIR$/lsh-image-loader/lsh-image-loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lshrecyclerviewadapter/lshrecyclerviewadapter.iml" filepath="$PROJECT_DIR$/lshrecyclerviewadapter/lshrecyclerviewadapter.iml" />
     </modules>
   </component>
 </project>

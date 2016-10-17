@@ -1,1 +1,1 @@
-include ':app', ':lsh-image-loader'
+include ':app', ':lsh-image-loader', ':lshrecyclerviewadapter'
