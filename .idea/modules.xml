@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OpenSourceCollection.iml" filepath="$PROJECT_DIR$/OpenSourceCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsh-image-loader/lsh-image-loader.iml" filepath="$PROJECT_DIR$/lsh-image-loader/lsh-image-loader.iml" />
     </modules>
   </component>
 </project>
