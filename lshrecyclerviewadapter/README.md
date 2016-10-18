@@ -5,7 +5,7 @@ LshRecyclerAdapter 是针对于RecyclerView的adapter。主要功能有添加hea
 
 ![效果图](https://raw.githubusercontent.com/fossilhua/RecyclerView-Adapter/master/raw/gif_1.gif)
 
-[Demo APK下载](https://raw.githubusercontent.com/fossilhua/RecyclerView-Adapter/master/raw/app-debug.apk)
+<!--[Demo APK下载](https://raw.githubusercontent.com/fossilhua/RecyclerView-Adapter/master/raw/app-debug.apk)-->
 
 ### How to Use
 
